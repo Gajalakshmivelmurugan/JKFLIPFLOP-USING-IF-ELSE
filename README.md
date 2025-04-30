@@ -60,9 +60,13 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 **RTL**
+
+
 ![434133995-da4b4f1f-e7ec-4553-8d4b-9fdc8eedd459](https://github.com/user-attachments/assets/c86d7838-ac95-4255-a50e-b9dbe2d1beb5)
 
 **WAVEFORM**
+
+
 ![434134157-a59ef99b-66cb-4d01-8a3d-d837afbd13cf](https://github.com/user-attachments/assets/ad9b4501-38d9-41b5-83e1-996be3e68eee)
 
 **RESULTS**
